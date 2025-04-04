@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (crime_prediction)" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="crime_prediction" project-jdk-type="Python SDK" />
 </project>
